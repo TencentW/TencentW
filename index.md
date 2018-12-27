@@ -1,4 +1,6 @@
-## 都是无压缩的高清图，还有一个是excel价格表文档
+
+## 全新奥迪A6L配置表和价格表高清图和文档
+
 ### [点击显示全新A6L配置表一](https://raw.githubusercontent.com/TencentW/TencentW/master/配置表.JPG)
 
 ### [点击显示全新A6L配置表一](https://raw.githubusercontent.com/TencentW/TencentW/master/配置表1.JPG)
