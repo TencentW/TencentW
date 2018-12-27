@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 获取微信入群二维码进入群聊
+
+![Image text](https://raw.githubusercontent.com/TencentW/TencentW/master/IMG_0901.JPG)
+
 
 You can use the [editor on GitHub](https://github.com/TencentW/TencentW/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
