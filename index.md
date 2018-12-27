@@ -3,7 +3,7 @@
 
 ### [点击显示全新A6L配置图一](https://tencentw.github.io/TencentW/配置表.JPG)
 
-### [点击显示全新A6L配置图二](https://tencentw.github.io/TencentW/配置表1.JPG)
+### [点击显示全新A6L配置图二](https://tencentw.github.io/TencentW/配置表2.JPG)
 
 ### [点击下载全新奥迪A6L装备价格表.xls](https://tencentw.github.io/TencentW/全新奥迪A6L推荐车型性能装备价格表20181212.xls)
 
